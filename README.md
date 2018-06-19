@@ -96,3 +96,7 @@
 
 
 **Сейчас попробуйте по памяти все повторить, желательно 2/3 раза.**
+
+[Следующий урок на GitHub](https://github.com/BakhMedia/Swift1.2-IfElseSwitchStatusBar)
+[Следующий урок на YouTube](https://www.youtube.com/watch?v=vKggL-bd5bw)
+
